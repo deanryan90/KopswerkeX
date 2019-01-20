@@ -1,0 +1,10 @@
+// A = Normal block
+// B = Hard block
+// U = Unbreakable block
+// G = Gravel block
+// W = Underground water block
+// R = Reservoir block, top (?)
+// S = Reservoir valve (start)
+// M = Generator valve (end)
+// Capitalization is important.
+//<-14 wide ->

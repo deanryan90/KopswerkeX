@@ -1,0 +1,30 @@
+// A = Normal block
+// B = Hard block
+// U = Unbreakable block
+// G = Gravel block
+// W = Underground water block
+// R = Reservoir block, top (?)
+// S = Reservoir valve (start)
+// M = Generator valve (end)
+// p = Player spawn
+// Capitalization is important.
+ P
+BBBBBBBBBBBBBB
+AAAAAAAAAAAAAA
+AAWAAAAAAAWWAA
+AAAAAAAAAAAAAA
+AAWAAAAAAAGGGG
+AAAAAAAAAAGGGG
+AAAAAAAAAAGGGG
+AAWWAAAAAAAAAA
+AAWWAAAAAAAAAA
+AAAAAAGGGAAAAA
+AAAAAAAAAAAAAA
+AAAAAWWAAAAAAA
+AAAAAAAAAAAAAA
+AAAGGAAAAAAAAA
+AAAGGAAAAAAAAA
+AAAGAAAWWAAAAA
+AAAABAAAAAAAAA
+AAAAAAAAAAAAAA
+//<-14 wide ->
